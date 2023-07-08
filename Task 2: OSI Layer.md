@@ -1,11 +1,11 @@
 **Name: Het Chheda**
 
-**Date: 7-7-23**
+**Date: 8-7-23**
 ______________________________________________________________________________________________________________________________________________________
 
 **Attack on OSI Layer 1 (Physical Layer):**
 
-Attack: Eavesdropping/Tap Attacks
+Attack: Eavesdropping/Tap Attacks  
 Description: Attackers physically tap into the communication medium, such as network cables or fiber optic lines, to intercept and capture data being transmitted.
 
 Impact:
@@ -21,7 +21,7 @@ Mitigation:
 
 **Attack on OSI Layer 2 (Data Link Layer):**
 
-Attack: MAC Spoofing
+Attack: MAC Spoofing  
 Description: Attackers manipulate the Media Access Control (MAC) address of their network interface to impersonate a legitimate device on the network.
 
 Impact:
@@ -37,7 +37,7 @@ Mitigation:
 
 **Attack on OSI Layer 3 (Network Layer):**
 
-Attack: IP Spoofing
+Attack: IP Spoofing  
 Description: Attackers forge or manipulate the source IP address in IP packets to hide their identity or impersonate trusted entities.
 
 Impact:
@@ -53,7 +53,7 @@ Mitigation:
 
 **Attack on OSI Layer 4 (Transport Layer):**
 
-Attack: SYN Flooding
+Attack: SYN Flooding  
 Description: Attackers flood a target server with a high volume of TCP SYN packets, exhausting its resources and preventing legitimate connections.
 
 Impact:
@@ -69,7 +69,7 @@ Mitigation:
 
 **Attack on OSI Layer 5 (Session Layer):**
 
-Attack: Session Hijacking
+Attack: Session Hijacking  
 Description: Attackers gain unauthorized access to an established session between two communicating entities, taking control of the session.
 
 Impact:
@@ -85,7 +85,7 @@ Mitigation:
 
 **Attack on OSI Layer 6 (Presentation Layer):**
 
-Attack: Code Injection (e.g., SQL Injection, Cross-Site Scripting)
+Attack: Code Injection (e.g., SQL Injection, Cross-Site Scripting)  
 Description: Attackers exploit vulnerabilities in application input validation, injecting malicious code into the presentation layer data.
 
 Impact:
@@ -101,7 +101,7 @@ Mitigation:
 
 **Attack on OSI Layer 7 (Application Layer):**
 
-Attack: Distributed Denial-of-Service (DDoS)
+Attack: Distributed Denial-of-Service (DDoS)  
 Description: Attackers overwhelm a target server or network with a massive volume of requests, rendering it unable to respond to legitimate traffic.
 
 Impact:
