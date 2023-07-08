@@ -1,4 +1,5 @@
 **Name: Het Chheda**
+
 **Date: 7-7-23**
 ______________________________________________________________________________________________________________________________________________________
 
@@ -81,6 +82,7 @@ Mitigation:
 2.	Employ secure session initiation mechanisms, such as two-factor authentication.
 3.	Regularly monitor session activities and detect any signs of suspicious behavior.
 
+
 **Attack on OSI Layer 6 (Presentation Layer):**
 
 Attack: Code Injection (e.g., SQL Injection, Cross-Site Scripting)
@@ -142,6 +144,7 @@ Countermeasures:
 Reference: 
 J. Zhu, Z. Wang, S. Liu, and H. Cai, "A Botnet-Based DDoS Attack Detection Scheme Using Software-Defined Networking," in IEEE Access, vol. 6, pp. 47012-47024, 2018.
 
+
 **Case Study 2: WannaCry Ransomware Attack (2017)**
 Layer: Presentation Layer (Layer 6) and Application Layer (Layer 7)
 
@@ -162,6 +165,7 @@ Countermeasures:
 
 Reference: 
 J. Allouch, M. Labiod, and C. Ghedira, "Detection of WannaCry Ransomware Threat using Machine Learning," in 2018 15th IEEE Annual Consumer Communications & Networking Conference (CCNC), pp. 1-6, 2018.
+
 
 **Case Study 3: ExPetr/Petya/NotPetya Ransomware (2017)**
 
